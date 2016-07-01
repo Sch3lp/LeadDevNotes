@@ -1,4 +1,4 @@
-# Armina Duretti - Vegetables
+# Duretti Hirpa - Vegetables
 
 Foster excellent working environments with minimal process
 

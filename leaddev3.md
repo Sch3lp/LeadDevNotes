@@ -6,13 +6,13 @@ _Pivotal_ @mikegehard
 I don't trust myself to get the bounded contexts right to move straight to microservices.
 So I want to get immersive design.
 
-Lookup: realestate-com-au/pact (is da raml?)
+Lookup: realestate-com-au/pact (is this raml?)
 
-Also look up what those classes are called that represented use cases.
+**Also look up what those classes are called that represented use cases.**
 
 ## Step 1 : api level tests
 ## Step 2 : Arranging/Organizing your application so you can see your domain
-Lookup: Uncle Bob - Architecture the lost years
+_Lookup: Uncle Bob - Architecture the lost years_
 Less costly to evolve bounded contexts and experiment with boundaries
 Delaying architecture decisions
 ## Step 3 : Break out components

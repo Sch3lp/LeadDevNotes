@@ -21,7 +21,7 @@ Less effective as collaborators.
 Nobody wants to be seen making a mistake.
 Ask for less money, fewer promotions.
 It's a barrier for people to be successful.
-Leads to lewer satisfaction (in life, work, ...).
+Leads to lower satisfaction (in life, work, ...).
 Less likely to seek out a new job.
 Comes down to marginalization and silence.
 
