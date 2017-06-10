@@ -1,5 +1,4 @@
-# Ask vs. Guess Cultures
-Katherine Wu
+# Ask vs. Guess Cultures - Katherine Wu
 @kwugirl
 
 ??Ask Metafilter??
